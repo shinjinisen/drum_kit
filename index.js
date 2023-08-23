@@ -27,7 +27,7 @@ for(var i=0;i<n;i++)
             case 'l':var audio7= new Audio("./sounds/tom-4.mp3"); 
                      audio7.play();
                      break;
-            default: break;
+            default: console.log(buttonInnerHTML);
         }
        
         
